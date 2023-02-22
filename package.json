@@ -10,6 +10,7 @@
     "url": "https://github.com/onodera0314/vulnerable-module-1/issues"
   },
   "dependencies": {
+    "jszip": "^3.7.0",
     "undici": "^5.19.1"
   }
 }
