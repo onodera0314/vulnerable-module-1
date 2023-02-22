@@ -1,0 +1,15 @@
+{
+  "name": "vulnerable-module-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onodera0314/vulnerable-module-1/issues"
+  },
+  "dependencies": {
+    "undici": "^5.19.0"
+  }
+}
